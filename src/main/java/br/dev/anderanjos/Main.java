@@ -8,6 +8,8 @@ import java.util.stream.Collectors;
 public class Main {
     public static void main(String[] args) {
 
+        // only for test purposes
+
         /**
          * CONTEXT / SETUP
          * I have tried to simulate the following structure:
